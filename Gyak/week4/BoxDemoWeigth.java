@@ -54,7 +54,7 @@ class BoxWeigth extends Box{
 }
 
 
-class BoxDemo{
+class BoxDemoWeigth{
 	public static void main(String[] args) {
 
 
